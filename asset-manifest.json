@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stevencainn/react-clicky-game/static/css/main.d1b05096.chunk.css",
+    "main.js": "/stevencainn/react-clicky-game/static/js/main.054d3736.chunk.js",
+    "main.js.map": "/stevencainn/react-clicky-game/static/js/main.054d3736.chunk.js.map",
+    "runtime-main.js": "/stevencainn/react-clicky-game/static/js/runtime-main.b33a2449.js",
+    "runtime-main.js.map": "/stevencainn/react-clicky-game/static/js/runtime-main.b33a2449.js.map",
+    "static/js/2.d811cc5e.chunk.js": "/stevencainn/react-clicky-game/static/js/2.d811cc5e.chunk.js",
+    "static/js/2.d811cc5e.chunk.js.map": "/stevencainn/react-clicky-game/static/js/2.d811cc5e.chunk.js.map",
+    "index.html": "/stevencainn/react-clicky-game/index.html",
+    "precache-manifest.dcb0819e5d11dcc14bf02fc2c7af7258.js": "/stevencainn/react-clicky-game/precache-manifest.dcb0819e5d11dcc14bf02fc2c7af7258.js",
+    "service-worker.js": "/stevencainn/react-clicky-game/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/stevencainn/react-clicky-game/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.d811cc5e.chunk.js.LICENSE": "/stevencainn/react-clicky-game/static/js/2.d811cc5e.chunk.js.LICENSE",
+    "static/media/logo.svg": "/stevencainn/react-clicky-game/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b33a2449.js",
+    "static/js/2.d811cc5e.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.054d3736.chunk.js"
+  ]
+}
