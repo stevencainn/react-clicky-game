@@ -1,5 +1,4 @@
 import React from "react";
-//why do i need this
 import Card from "./components/Card";
 import Wrapper from "./components/Wrapper";
 import Header from "./components/Header";
