@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/stevencainn/react-clicky-game/static/css/main.d1b05096.chunk.css",
-    "main.js": "/stevencainn/react-clicky-game/static/js/main.054d3736.chunk.js",
-    "main.js.map": "/stevencainn/react-clicky-game/static/js/main.054d3736.chunk.js.map",
+    "main.css": "/stevencainn/react-clicky-game/static/css/main.6b2ae10b.chunk.css",
+    "main.js": "/stevencainn/react-clicky-game/static/js/main.911bb37b.chunk.js",
+    "main.js.map": "/stevencainn/react-clicky-game/static/js/main.911bb37b.chunk.js.map",
     "runtime-main.js": "/stevencainn/react-clicky-game/static/js/runtime-main.b33a2449.js",
     "runtime-main.js.map": "/stevencainn/react-clicky-game/static/js/runtime-main.b33a2449.js.map",
-    "static/js/2.d811cc5e.chunk.js": "/stevencainn/react-clicky-game/static/js/2.d811cc5e.chunk.js",
-    "static/js/2.d811cc5e.chunk.js.map": "/stevencainn/react-clicky-game/static/js/2.d811cc5e.chunk.js.map",
+    "static/js/2.8f302d01.chunk.js": "/stevencainn/react-clicky-game/static/js/2.8f302d01.chunk.js",
+    "static/js/2.8f302d01.chunk.js.map": "/stevencainn/react-clicky-game/static/js/2.8f302d01.chunk.js.map",
     "index.html": "/stevencainn/react-clicky-game/index.html",
-    "precache-manifest.dcb0819e5d11dcc14bf02fc2c7af7258.js": "/stevencainn/react-clicky-game/precache-manifest.dcb0819e5d11dcc14bf02fc2c7af7258.js",
+    "precache-manifest.c42ea33fc5feb91b78ffd401af7e64c8.js": "/stevencainn/react-clicky-game/precache-manifest.c42ea33fc5feb91b78ffd401af7e64c8.js",
     "service-worker.js": "/stevencainn/react-clicky-game/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/stevencainn/react-clicky-game/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.d811cc5e.chunk.js.LICENSE": "/stevencainn/react-clicky-game/static/js/2.d811cc5e.chunk.js.LICENSE",
-    "static/media/logo.svg": "/stevencainn/react-clicky-game/static/media/logo.5d5d9eef.svg"
+    "static/css/main.6b2ae10b.chunk.css.map": "/stevencainn/react-clicky-game/static/css/main.6b2ae10b.chunk.css.map",
+    "static/js/2.8f302d01.chunk.js.LICENSE": "/stevencainn/react-clicky-game/static/js/2.8f302d01.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.b33a2449.js",
-    "static/js/2.d811cc5e.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.054d3736.chunk.js"
+    "static/js/2.8f302d01.chunk.js",
+    "static/css/main.6b2ae10b.chunk.css",
+    "static/js/main.911bb37b.chunk.js"
   ]
 }
